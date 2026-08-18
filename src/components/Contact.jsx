@@ -7,7 +7,8 @@ export default function Contact() {
       <div className="contact-card glass" data-aos="fade-up">
 
         <p>
-          Ready for a tech chat? Let's build something great together.
+          Interested in data, AI, or building something useful with technology?
+          Feel free to reach out — I'm always open to new opportunities and conversations.
         </p>
 
         <div className="contact-info">

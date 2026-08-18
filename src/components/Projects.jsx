@@ -18,7 +18,7 @@ const projects = [
   {
     name: "Portfolio Website",
     desc: "My personal portfolio.",
-    github: "https://github.com/Adhiyeee/my-portfolio",
+    github: "https://adhiyeee.github.io/my-portfolio/",
     
     img: "project2.jpeg" // or use a new image like portfolio.jpeg
   }

@@ -6,32 +6,33 @@ export default function CodeScreen() {
 
       {/* LEFT SIDE */}
       <div className="code-left">
-        <h2 className="code-title">My Dev World 💻</h2>
+        <h2 className="code-title">My Data World 📊</h2>
         <p className="code-desc">
-          I love building clean UI, smart systems and exploring ML 🚀
+          I enjoy working with data, finding insights and building
+          intelligent, data-driven solutions 🚀
         </p>
       </div>
 
       {/* RIGHT SIDE */}
       <div className="code-box">
         <h1>
-        <Typewriter
-        words={[
-          "dev.skills = ['React', 'FastAPI', 'ML']",
-          "dev.build('Modern UI')",
-          "dev.learn('To be AI-Full Stack Developer')",
-          "dev.create('Amazing Projects ')"
-        ]}
-        loop={true}
-        cursor
-        cursorStyle="|"
-        typeSpeed={60}
-        deleteSpeed={30}
-        delaySpeed={1200}
-      />
-       </h1>
-          </div>
+          <Typewriter
+            words={[
+              "data.skills = ['Python', 'SQL', 'Pandas']",
+              "data.analyze('Real-World Data')",
+              "data.visualize('Insights')",
+              "data.build('Intelligent Solutions')"
+            ]}
+            loop={true}
+            cursor
+            cursorStyle="|"
+            typeSpeed={60}
+            deleteSpeed={30}
+            delaySpeed={1200}
+          />
+        </h1>
+      </div>
 
-        </section>
-      );
-    }
+    </section>
+  );
+}

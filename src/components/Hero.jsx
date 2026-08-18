@@ -20,10 +20,12 @@ export default function Hero() {
   transition={{ duration: 1.2, delay: 0.3 }}
 >
         <h1>Hey, I'm Adithyan D </h1>
-        <h2><u>AI-Full Stack Developer</u></h2>
+        <h2><u>Data Analyst | Python | SQL</u></h2>
         <p>
-          I build interactive, clean and modern web applications with a touch of AI magic ✨.
-          Currently learning Python while crafting AI-powered web solutions. Previously explored Machine Learning 🚀
+          I work with data using Python, SQL, Pandas, NumPy and Power BI to
+            transform datasets into meaningful insights. With a background in
+          AI and Machine Learning, I enjoy building data-driven solutions
+          and exploring how data can solve real-world problems.
         </p>
       </motion.div> 
 
